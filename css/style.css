@@ -1,7 +1,7 @@
 /* PROPRIEDADES PERSONALIZADAS */
 
 :root {
-/* colors */
+  /* colors */
 
   --dark-blue-100: #609ed4;
   --dark-blue-200: #356ea9;
@@ -25,7 +25,7 @@
 
   --white: #ffffff;
 
-/* font-size */
+  /* font-size */
 
   --ff-inter: "Inter", sans-serif;
 
@@ -41,12 +41,12 @@
   --fw-400: 400;
   --fw-700: 700;
 
-/* border radius */
+  /* border radius */
 
   --radius-32: 32px;
   --radius-24: 24px;
 
-/* transition */
+  /* transition */
 
   --transition-1: 0.5s ease;
 }
@@ -106,7 +106,9 @@ html {
 }
 
 body {
-  background-image: url(/assets/image/luffy.png);
+  background-image: url("/assets/image/luffy.png");
+  background-repeat: no-repeat;
+  background-size: cover;
   font-size: 1.6rem;
   line-height: 1.3;
 }
