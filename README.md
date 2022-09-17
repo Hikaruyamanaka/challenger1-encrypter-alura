@@ -1,6 +1,6 @@
 # 🔐 Decodificador de Código
 
-
+<img src="https://cdn.discordapp.com/attachments/897636782961725501/1020781776790106313/imagem-encrypter.png">
 
 ## 💡 Sobre o projeto
 
@@ -16,6 +16,10 @@ Nesse desafio do programa ONE Next Edition em parceria com Alura mais Oracle con
 <p>Acesse o website do projeto <a href="https://herbertcaiosama.github.io/text-decoder/">aqui.</a></>
 -->
 
+
+</br>
+
+
 ## Regras de Criptografia
 As "chaves" de criptografia que utilizaremos são: <br>
 > A letra **a** é convertida para `ai`
@@ -28,6 +32,10 @@ As "chaves" de criptografia que utilizaremos são: <br>
 
 > A letra **u** é convertida para `ufat`
 
+
+</br>
+
+
 Requisitos:
 ## 🧠 Requisitos do desafio
 
@@ -36,10 +44,18 @@ Requisitos:
 * Deve ser possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original;
 * A página deve ter campos para inserção do texto a ser criptografado ou descriptografado, e a pessoa usuária deve poder escolher entre as duas opções;
 * O resultado deve ser exibido na tela.
+ 
+
+</br>
+
 
 ## 🚀 Extra
 
 * Um botão que copie o texto criptografado/descriptografado para a área de transferência - ou seja, que tenha a mesma funcionalidade do Ctrl+C ou da opção "copiar" do menu dos aplicativos.
+
+
+</br>
+
 
 ## 🛠 Tecnologias e Ferramentas Utilizadas
 
@@ -53,8 +69,31 @@ Essas foram as tecnologias e ferramentas que utilizei para realizar este Challen
 #### <img align="center" alt="J-JS" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"> Figma
 
 
+</br>
+
+
 ## 📝 Contato
 
-<p>Feito com :white_heart: por <a href="https://www.linkedin.com/in/hikaruyamanaka/">Hikaru Yamanaka</a></>
+<p>Feito com :white_heart: por <a href="https://www.linkedin.com/in/hikaruyamanaka/"  target="_blank">Hikaru Yamanaka</a></p>
 
-#### <a href="https://www.linkedin.com/in/hikaruyamanaka/" target="_blank"><img align="center" alt="J-HTML" height="50" width="50" src="https://img.icons8.com/fluency/344/linkedin.png"></a>
+
+<a href="https://www.linkedin.com/in/hikaruyamanaka/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:hikaru.yamanaka@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href="mailto:hikaru.yamanaka93@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/hikaruyamanaka/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/hikaruyamanaka" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href="https://wa.me/5511948436466" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+
+  
+
+  
+
+  
+
+   
+  
+  
+ 
+
+ 
+</div>
