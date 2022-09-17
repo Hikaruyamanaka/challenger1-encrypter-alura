@@ -45,10 +45,16 @@ Requisitos:
 
 Essas foram as tecnologias e ferramentas que utilizei para realizar este Challenge.
 
-#### <img align="center" alt="J-HTML" height="30" width="40" src="https://www.flaticon.com/br/icone-gratis/html_1051277?term=html&page=1&position=2&page=1&position=2&related_id=1051277&origin=search"> HTML5
-#### <img align="center" alt="J-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> CSS3
-#### <img align="center" alt="J-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> JavaScript
+#### <img align="center" alt="J-JS" height="30" width="30" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"> VS Code
+
+#### <img align="center" alt="J-HTML" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"> HTML5
+#### <img align="center" alt="J-CSS" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"> CSS3
+#### <img align="center" alt="J-JS" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"> JavaScript
+#### <img align="center" alt="J-JS" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"> Figma
+
 
 ## 📝 Contato
 
 <p>Feito com :white_heart: por <a href="https://www.linkedin.com/in/hikaruyamanaka/">Hikaru Yamanaka</a></>
+
+#### <a href="https://www.linkedin.com/in/hikaruyamanaka/" target="_blank"><img align="center" alt="J-HTML" height="50" width="50" src="https://img.icons8.com/fluency/344/linkedin.png"></a>
