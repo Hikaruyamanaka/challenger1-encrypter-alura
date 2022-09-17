@@ -2,6 +2,9 @@
 
 <img src="https://cdn.discordapp.com/attachments/897636782961725501/1020781776790106313/imagem-encrypter.png">
 
+## Acesse aqui para ver o projeto: 👇
+https://hikaruyamanaka.github.io/challenger1-encrypter-alura/
+
 ## 💡 Sobre o projeto
 
 Nesse desafio do programa ONE Next Edition em parceria com Alura mais Oracle construí uma aplicação que criptografa textos utilizando as tecnologias HTML, CSS e Javascript. Com essa aplicação você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
@@ -84,16 +87,5 @@ Essas foram as tecnologias e ferramentas que utilizei para realizar este Challen
 <a href="https://www.twitch.tv/hikaruyamanaka" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href="https://wa.me/5511948436466" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
-  
 
-  
-
-  
-
-   
-  
-  
- 
-
- 
 </div>
