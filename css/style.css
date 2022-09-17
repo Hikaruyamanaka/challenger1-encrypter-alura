@@ -106,7 +106,7 @@ html {
 }
 
 body {
-  background-image: url("/assets/image/luffy.png");
+  background-image: url("../assets/image/luffy.png");
   background-repeat: no-repeat;
   background-size: cover;
   font-size: 1.6rem;
